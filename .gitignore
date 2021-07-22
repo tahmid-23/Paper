@@ -41,6 +41,7 @@ work/Spigot-API
 work/*.jar
 work/test-server
 work/ForgeFlower
+work/mcdev-source
 
 # Mac filesystem dust
 .DS_Store/
